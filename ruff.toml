@@ -1,0 +1,7 @@
+line-length = 110
+
+[lint]
+select = ["F", "E", "I"]
+
+[lint.isort]
+force-single-line = true
